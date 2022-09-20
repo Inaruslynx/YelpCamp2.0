@@ -1,6 +1,5 @@
 tasks:
-  - name: Dev Server
-    init: npm install
+  - init: npm install
     command: npm run dev
 
 ports:
